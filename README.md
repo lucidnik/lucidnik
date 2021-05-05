@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Nikita Filippov
+- 👋 Hey, name's Nikita Filippov
 - 👀 I’m interested in everything binary.
 - 🌱 I’m currently learning web development, specifically React.js
 - 💞️ I’m looking to collaborate on ANYTHING AND EVERYTHING.
